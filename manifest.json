@@ -1,0 +1,14 @@
+ {
+    "name": "Motivator",
+    "version": "1.0",
+    "description": "Get random motivational, sarcastic and funny quotes everytime you open this extension.",
+    "manifest_version": 2,
+    "icons": { 
+      "16": "ICON-ICX-icon.png",
+      "48": "ICON-ICX-icon48.png",
+     "128": "ICON-ICX-icon128.png" 
+    },
+    "browser_action":{
+      "default_popup":"popup.html"
+    }
+  }

@@ -1,0 +1,30 @@
+body{
+    width: 300px;
+}
+
+.wrapper{
+    background: beige;
+    padding: 15px;
+    margin: 8px;
+    color: #52328c;
+}
+
+.author > span {
+    float: right;
+    font-size: 17px;
+    color: #462580;
+    font-weight: 400;
+}
+
+.author{
+    overflow: hidden;
+    background: lavenderblush;
+    padding: 5px;
+    display: none;
+}
+
+.credits{
+    text-align: center;
+    color: #6972a5;
+    font-size: 11px;
+}
